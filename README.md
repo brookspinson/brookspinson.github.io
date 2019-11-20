@@ -10,12 +10,7 @@
 <body>
   <H1> Brooks Pinson's Webpage </H1>
   <p> This webpage is all about me </p>
-<img src= "IMG_4741.jpeg" alt= "Me and Demi" height="400" width="450" .rotateimg180 {
-  -webkit-transform:rotate(180deg);
-  -moz-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  -o-transform: rotate(180deg);
-  transform: rotate(180deg);}
+<img src= "IMG_4741.jpeg" alt= "Me and Demi" height="400" width="450" 
 	<p><small> Pictured above is me and my dog, Demi</small></p>
 </html>
   
