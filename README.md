@@ -10,7 +10,7 @@
 <body>
   <H1> Brooks Pinson's Webpage </H1>
   <p> This webpage is all about me </p>
-<img src= "IMG_4717.jpeg" alt= "Me and Demi" height="400" width="400" 
+<img src= "IMG_4717.jpeg" alt= "Me and Demi" height="400" width="400">
 	<p><small> Pictured above is me and my dog, Demi</small></p>
 </html>
   
